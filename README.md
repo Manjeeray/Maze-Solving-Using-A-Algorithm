@@ -1,1 +1,1 @@
-# Maze-Solving-Using-A-Algorithm
+# Maze-Solving-Using-A*-Algorithm
