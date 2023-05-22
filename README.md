@@ -1,1 +1,3 @@
 # Maze-Solving-Using-A*-Algorithm
+
+An optimistic collision-free path must be ensured by the algorithm or rules because the environment or working area may be changing dynamically. An effective path planning algorithm is the A* algorithm, which is based on heuristic functions. It determines the value of the heuristic function at each node on the work area and involves checking an excessive number of adjacent nodes in order to find the ideal solution with a negligible chance of colliding. The value of the heuristic function is determined by the suggested A* algorithm shortly before the collision phase rather than initially, and it shows a good reduction in processing time with increased speed.
